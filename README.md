@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="style.css">
     <!-- Fontawesome CDN Link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
-  <link rel="icon" type="image/x-icon" href="about/images/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="about.jpg">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    </head>
 <body>
