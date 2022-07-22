@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="style.css">
     <!-- Fontawesome CDN Link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
-      <link rel="icon" type="image/x-icon" href="about.jpg">
+      <link rel="icon" type="image/x-icon" href="about">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    </head>
 <body>
