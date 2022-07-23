@@ -1,7 +1,9 @@
+<!DOCTYPE html>
+<!-- Designined by CodingLab | www.youtube.com/codinglabyt -->
 <html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8">
-    <title> My Portfolio | Sabbam Chandraneel </title>
+    <title> Responsive Portfolio Website | CodingLab </title>
     <link rel="stylesheet" href="style.css">
     <!-- Fontawesome CDN Link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
@@ -15,14 +17,13 @@
   <!-- navgaition menu -->
   <nav>
     <div class="navbar">
-      <div class="logo"><a href="#"> My Portfolio.</a></div>
+      <div class="logo"><a href="#">Portfolio.</a></div>
       <ul class="menu">
           <li><a href="#home">Home</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#skills">Skills</a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#contact">Contact</a></li>
-        <li><a href="https://linktr.ee/portfolio7">Projects</a></li>
           <div class="cancel-btn">
             <i class="fas fa-times"></i>
           </div>
@@ -43,16 +44,15 @@
    <div class="home-content">
      <div class="text">
        <div class="text-one">Hello,</div>
-       <div class="text-two">I'm Sabbam Chandraneel</div>
-       <div class="text-three">WEB DESIGNER</div>
-       <div class="text-four">For more details click below</div>
+       <div class="text-two">I'm Prem Shahi</div>
+       <div class="text-three">UI/UX Designer</div>
+       <div class="text-four">From Nepal</div>
      </div>
      <div class="button">
-       <button><a href="https://neelweb1.blogspot.com/">Know More</a></button>
+       <button>Hire Me</button>
      </div>
    </div>
  </section>
-
 
 <!-- About Section Start -->
 <section class="about" id="about">
@@ -60,13 +60,13 @@
     <div class="title"><span>About Me</span></div>
   <div class="about-details">
     <div class="left">
-      <img src="IMG-20220404-WA0070.jpg" alt="">
+      <img src="images/about.jpg" alt="">
     </div>
     <div class="right">
       <div class="topic">Designing Is My Passion</div>
-      <p>I Am <b>SABBAM CHANDRANEEL</b> Designing is my passion so i am 18 years old started designing web and app applications for free and with free resources and this is my official portfolio website where you can see my projects and my skills from the below sections and for any quiries please make sure to contact us at any time. You can also visit our official youtube channel whre you can find many types of free lectures on the creation of website with free resources do visit our channel and get subscribed for latest updates.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, porro veritatis pariatur, nobis voluptatem ipsum repellat nemo quisquam error reprehenderit recusandae odio vel, suscipit. Voluptas mollitia accusantium quaerat aspernatur labore dolorum placeat ipsa sint nam perspiciatis eos consectetur veritatis debitis, quis aliquam unde sed maiores sit! Hic molestiae optio iste iure earum amet nostrum quaerat facere quae veniam maiores harum iusto aperiam vel inventore illo voluptatibus voluptates quo impedit voluptatum error vitae, omnis praesentium? Aperiam nulla non, nesciunt fuga rem perferendis alias et, temporibus, distinctio culpa unde a laborum libero ducimus. Facilis veniam sit praesentium, voluptatibus sint maxime iusto eaque.</p>
       <div class="button">
-        <button><a href="https://linktr.ee/portfolio7">Know More</a></button>
+        <button>Download CV</button>
       </div>
     </div>
   </div>
@@ -81,9 +81,9 @@
    <div class="skills-details">
      <div class="text">
        <div class="topic">Skills Reflects Our Knowledge</div>
-       <p>Here see my exoerience on the particular topics and these are the records which are required to build upto a basic to intermediate webpage for free so these are my skills related to coding and compared to non-coding there are many skills to view the example website that designed without coding will be pinged at the top of the navigation menu....</p>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus natus tenetur tempora? Quasi, rem quas omnis. Porro rem aspernatur reiciendis ut praesentium minima ad, quos, officia! Illo libero, et, distinctio repellat sed nesciunt est modi quaerat placeat. Quod molestiae, alias?</p>
        <div class="experience">
-         <div class="num">2</div>
+         <div class="num">10</div>
          <div class="exp">Years Of <br> Experience</div>
        </div>
      </div>
@@ -94,15 +94,15 @@
        </div>
        <div class="box">
          <div class="topic">CSS</div>
-         <div class="per">60%</div>
+         <div class="per">80%</div>
        </div>
        <div class="box">
          <div class="topic">JavScript</div>
-         <div class="per">20%</div>
+         <div class="per">70%</div>
        </div>
        <div class="box">
          <div class="topic">PHP</div>
-         <div class="per">10%</div>
+         <div class="per">60%</div>
        </div>
      </div>
    </div>
@@ -118,43 +118,43 @@
          <div class="icon">
            <i class="fas fa-desktop"></i>
        </div>
-       <div class="topic">HTML Web Development</div>
-       <p>There are two types of web development related to my skills one is coded webpage and another one is non-code webpage</p>
+       <div class="topic">Web Devlopment</div>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia autem quam odio, qui voluptatem eligendi?</p>
      </div>
        <div class="box">
          <div class="icon">
            <i class="fas fa-paint-brush"></i>
        </div>
-       <div class="topic">Wordpress</div>
-       <p>Wordpress is one of the webpage development which is done or build with both paid and the free resources so this is free builder.</p>
+       <div class="topic">Graphic Design</div>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia autem quam odio, qui voluptatem eligendi?</p>
      </div>
        <div class="box">
          <div class="icon">
            <i class="fas fa-chart-line"></i>
        </div>
        <div class="topic">Digital Marketing</div>
-       <p>You can also learn digital marketing and SEO ranking for your webpage for free</p>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia autem quam odio, qui voluptatem eligendi?</p>
      </div>
        <div class="box">
          <div class="icon">
            <i class="fab fa-android"></i>
        </div>
-       <div class="topic">Logo Design</div>
-       <p>Create professional logos by using android and PC for free and those logos are mainly used for websites and your youtube channels</p>
+       <div class="topic">Icon Design</div>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia autem quam odio, qui voluptatem eligendi?</p>
      </div>
        <div class="box">
          <div class="icon">
            <i class="fas fa-camera-retro"></i>
        </div>
-       <div class="topic">Video Editing</div>
-       <p>Video editing courses are also going to introduce shortly in our channel and also in our official portfolio website do follow us </p>
+       <div class="topic">Photography</div>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia autem quam odio, qui voluptatem eligendi?</p>
      </div>
        <div class="box">
          <div class="icon">
            <i class="fas fa-tablet-alt"></i>
        </div>
        <div class="topic">Apps Devlopment</div>
-       <p>Create professional app applications same as like websites which we are created so to get those information follow uodates which are being posted</p>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia autem quam odio, qui voluptatem eligendi?</p>
      </div>
    </div>
    </div>
@@ -166,11 +166,9 @@
     <div class="title"><span>Contact Me</span></div>
     <div class="text">
       <div class="topic">Have Any Project?</div>
-      </br>
-      <p>Heelo at last i am going to conclude is that if there is any doubt regarding your own project or if you want any project to learn you can just contact me from below section so my team will respond you soon quickly for an idea feel free to ask doubts regarding your project.</p>
-      <strong>View Our non-coded projects<a href="https://linktr.ee/portfolio7">Click Here</a></li></strong>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam neque ipsum corrupti dolores, facere numquam voluptate aspernatur sit perferendis qui nisi modi! Recusandae deserunt consequatur voluptatibus alias repellendus nobis eligendi.</p>
       <div class="button">
-        <button><a href="mailto:sabbam2004@gmail.com">Contact Us</a></button>
+        <button>Let's Chat</button>
       </div>
     </div>
   </div>
@@ -179,7 +177,7 @@
 <!-- Footer Section Start -->
 <footer>
   <div class="text">
-    <span>Created By <a href="#">Sabbam Chandraneel</a> | &#169; 2022 All Rights Reserved</span>
+    <span>Created By <a href="#">CodingLab</a> | &#169; 2021 All Rights Reserved</span>
   </div>
 </footer>
 
