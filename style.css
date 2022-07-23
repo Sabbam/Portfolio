@@ -508,7 +508,8 @@ footer .text span a:hover{
     font-size: 50px;
     color: #4070f4;
   }
-}.loader {
+}
+loader {
   border-top: 16px solid blue;
   border-right: 16px solid green;
   border-bottom: 16px solid red;
