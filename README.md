@@ -5,7 +5,6 @@
     <link rel="stylesheet" href="style.css">
     <!-- Fontawesome CDN Link -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
-<link rel="apple-touch-icon-precomposed" sizes="120x120" href="about.jpg">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    </head>
 <body>
@@ -23,9 +22,7 @@
           <li><a href="#skills">Skills</a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#contact">Contact</a></li>
-        <li><a href="https://appstore.mobiroller.com/android-ios-market/education/1167037/neelgroups-education-mobile-application">Download App</a></li>
-        
-          <li><a href="https://neeltelugutech.netlify.app">Non-Code Webpage</a></li>
+        <li><a href="https://linktr.ee/portfolio7">Projects</a></li>
           <div class="cancel-btn">
             <i class="fas fa-times"></i>
           </div>
@@ -51,10 +48,11 @@
        <div class="text-four">For more details click below</div>
      </div>
      <div class="button">
-       <button><a href="https://neelweb1.blogspot.com">Know More</a></button>
+       <button><a href="https://neelweb1.blogspot.com/">Know More</a></button>
      </div>
    </div>
  </section>
+
 
 <!-- About Section Start -->
 <section class="about" id="about">
@@ -62,13 +60,13 @@
     <div class="title"><span>About Me</span></div>
   <div class="about-details">
     <div class="left">
-      <img src="about.jpg" alt="">
+      <img src="IMG-20220404-WA0070.jpg" alt="">
     </div>
     <div class="right">
       <div class="topic">Designing Is My Passion</div>
       <p>I Am <b>SABBAM CHANDRANEEL</b> Designing is my passion so i am 18 years old started designing web and app applications for free and with free resources and this is my official portfolio website where you can see my projects and my skills from the below sections and for any quiries please make sure to contact us at any time. You can also visit our official youtube channel whre you can find many types of free lectures on the creation of website with free resources do visit our channel and get subscribed for latest updates.</p>
       <div class="button">
-        <button><a href="#">Download CV</a></button>
+        <button><a href="https://linktr.ee/portfolio7">Know More</a></button>
       </div>
     </div>
   </div>
@@ -85,7 +83,7 @@
        <div class="topic">Skills Reflects Our Knowledge</div>
        <p>Here see my exoerience on the particular topics and these are the records which are required to build upto a basic to intermediate webpage for free so these are my skills related to coding and compared to non-coding there are many skills to view the example website that designed without coding will be pinged at the top of the navigation menu....</p>
        <div class="experience">
-         <div class="num">5</div>
+         <div class="num">2</div>
          <div class="exp">Years Of <br> Experience</div>
        </div>
      </div>
@@ -104,7 +102,7 @@
        </div>
        <div class="box">
          <div class="topic">PHP</div>
-         <div class="per">50%</div>
+         <div class="per">10%</div>
        </div>
      </div>
    </div>
@@ -168,7 +166,9 @@
     <div class="title"><span>Contact Me</span></div>
     <div class="text">
       <div class="topic">Have Any Project?</div>
+      </br>
       <p>Heelo at last i am going to conclude is that if there is any doubt regarding your own project or if you want any project to learn you can just contact me from below section so my team will respond you soon quickly for an idea feel free to ask doubts regarding your project.</p>
+      <strong>View Our non-coded projects<a href="https://linktr.ee/portfolio7">Click Here</a></li></strong>
       <div class="button">
         <button><a href="mailto:sabbam2004@gmail.com">Contact Us</a></button>
       </div>
