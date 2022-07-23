@@ -111,7 +111,8 @@ nav.sticky .menu-btn{
 .home{
   height: 100vh;
   width: 100%;
-  background: url("home5.jpg") no-repeat;	   
+  background: url("home5.jpg")no-repeat;	
+  background-color: rgba(100,0,0,0.5);   
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -507,39 +508,9 @@ footer .text span a:hover{
     font-size: 50px;
     color: #4070f4;
   }
-}@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
-
-body {
-  background-color: #f1c40f;
-  overflow: hidden;
+}.loader {
+  border-top: 16px solid blue;
+  border-right: 16px solid green;
+  border-bottom: 16px solid red;
+  border-left: 16px solid pink;
 }
-
-h1 {
-  position: absolute;
-  font-family: 'Open Sans';
-  font-weight: 600;
-  font-size: 12px;
-  text-transform: uppercase;
-  left: 50%;
-  top: 58%;
-  margin-left: -20px;
-}
-
-.body {
-  position: absolute;
-  top: 50%;
-  margin-left: -50px;
-  left: 50%;
-  animation: speeder .4s linear infinite;
-
-  > span {
-    height: 5px;
-    width: 35px;
-    background: #000;
-    position: absolute;
-    top: -19px;
-    left: 60px;
-    border-radius: 2px 10px 1px 0;
-  }
-}
-
