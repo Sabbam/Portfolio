@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://sabbam.github.io/Portfolio/scn/home.html)
 
-- 🌱 I’m currently learning **Java Script,Phython**
+- 🌱 I’m currently learning **Java Script,Python**
 
 - 👨‍💻 All of my projects are available at [https://sabbam.github.io/Portfolio/home.html](https://sabbam.github.io/Portfolio/home.html)
 
