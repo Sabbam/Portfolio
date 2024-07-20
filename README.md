@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabbam" alt="sabbam" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://sabbam.github.io/Portfolio/home.html)
+- 🔭 I’m currently working on [My Portfolio](https://sabbam.github.io/Portfolio/scn/home.html)
 
 - 🌱 I’m currently learning **Java Script,Phython**
 
